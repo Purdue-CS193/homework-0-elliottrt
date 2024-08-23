@@ -1,11 +1,13 @@
-## Welcome to GitHub Pages
+# Reed's First CS19300 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Favorite things about CS19300
+- It is all the way across campus at 🕡 (6:30) pm and I have to walk 20 minutes to get there.
+- I have to do attendance quizzes
+- I can skip the PSO
 
 ### Markdown
 
+I'm keeping the guide just in case. You never know when.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
